@@ -1,4 +1,4 @@
-<server description="Default server configuration">
+<server description="Server configuration">
     <featureManager>
       <feature></feature>
         <feature>javaee-8.0</feature>
