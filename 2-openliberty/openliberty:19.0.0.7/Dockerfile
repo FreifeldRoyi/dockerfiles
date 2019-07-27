@@ -1,9 +1,9 @@
-FROM freifeld/java:11
+FROM freifeld/java:12
 
 LABEL Maintainer="Royi Freifeld"
 
-ENV RELEASE 2019-04-19_0642
-ENV VERSION 19.0.0.4
+ENV RELEASE 2019-07-11_1115
+ENV VERSION 19.0.0.7
 ENV ARCHIVE_NAME openliberty-${VERSION}
 
 ENV INSTALL_DIR /opt/openliberty
